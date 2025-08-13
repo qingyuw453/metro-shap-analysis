@@ -24,4 +24,5 @@ This repository contains code, sample data, and notebooks for metro ridership an
 ## 🛠️ Requirements
 Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn xgboost shap matplotlib statsmodels
+
